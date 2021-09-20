@@ -1,1 +1,12 @@
-trung dep trai
+<<<<<<< HEAD
+dat la trung
+=======
+bo tao ra conflick day 
+>>>>>>> 17775937b1fc2b9256e33d6547f62f521e7c9171\ẻg
+tgrtwe
+gưtr
+grwtg
+ẻwtg
+ưg
+ư
+
